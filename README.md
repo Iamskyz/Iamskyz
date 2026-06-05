@@ -15,14 +15,9 @@
 
 ## About Me
 
-Passionate about building modern, scalable web applications. Currently focused on mastering full stack development — frontend is my strength, backend is my next frontier.
-
-- 🔭 Working on: **My Portfolio**
-- 🌱 Learning: **Python & Backend Development**
-- 👯 Open to: **Full Stack Collaborations**
-- ⚡ Fun fact: I laugh easily, but take responsibility seriously
-
----
+Results-driven Frontend Developer experienced in building modern, responsive web applications. Proficient in HTML, 
+CSS, JavaScript, and modern frameworks and tools such as React, Tailwind CSS, Node.js, Express.js, and MongoDB, 
+with experience in developing full-stack solutions and deploying production-ready applications.
 
 ## Tech Stack
 
@@ -54,15 +49,7 @@ Passionate about building modern, scalable web applications. Currently focused o
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Iamskyz&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Iamskyz&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamskyz&theme=dark&hide_border=true&layout=compact)
-
-</div>
 
 ---
 
@@ -70,7 +57,7 @@ Passionate about building modern, scalable web applications. Currently focused o
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Iamskyz&theme=one_dark_pro&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Iamskyz&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -82,8 +69,6 @@ Passionate about building modern, scalable web applications. Currently focused o
 
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/iamskyz) 
